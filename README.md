@@ -38,6 +38,7 @@ I engineered a **Cash Flow Matching (Dedication)** strategy using Linear Program
 ---
 
 ### 📷 Visual Output
-<img width="1936" height="2160" alt="195 K carbon" src="https://github.com/user-attachments/assets/96f46a00-b7be-45b1-b791-70d32e89c189" />
+<img width="1936" height="2122" alt="carbon (2)" src="https://github.com/user-attachments/assets/6806993a-c294-47b4-84a6-869359953e18" />
+
 
 
