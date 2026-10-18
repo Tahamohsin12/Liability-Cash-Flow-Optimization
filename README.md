@@ -41,5 +41,19 @@ I engineered a **Cash Flow Matching (Dedication)** strategy using Linear Program
 ### 📷 Visual Output
 <img width="1936" height="2122" alt="carbon (2)" src="https://github.com/user-attachments/assets/6806993a-c294-47b4-84a6-869359953e18" />
 
+---
 
+### Skills shown
+Linear and integer programming · cash-flow matching · scenario comparison (continuous vs whole-lot trading) · Python + Gurobi
 
+### Why it matters in operations
+The same structure (meet a fixed schedule of obligations at minimum upfront cost) applies to funding a capital plan, scheduling supplier payments, or sizing safety stock against a known demand schedule.
+
+### How to run
+```bash
+pip install gurobipy pandas jupyter
+jupyter notebook Cash_Flow_Optimization_Model.ipynb
+```
+Gurobi's free size-limited licence (installed with `gurobipy`) is enough for this model.
+
+*Context: developed from a group assignment in Managerial Decisions Modelling (UBC Sauder MBA, 2025).*
